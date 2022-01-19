@@ -299,6 +299,10 @@ nav .join-btn {
   top: 35vh;
 }
 
+.blog-note {
+  background-color: #F4EEE8;
+}
+
 .blog-note .cat-card .cards {
   -webkit-box-shadow: 5px 5px 2px rgba(219, 122, 87, 0.3);
           box-shadow: 5px 5px 2px rgba(219, 122, 87, 0.3);
